@@ -1,0 +1,7 @@
+path: yolo_dataset
+train: ./yolo_dataset/images/train
+test: ./yolo_dataset/images/test
+val: ./yolo_dataset/images/val
+
+nc: 4
+names: ['hugging', 'sitting', 'sleeping', 'using_laptop']
