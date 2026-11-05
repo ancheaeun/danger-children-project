@@ -1,0 +1,49 @@
+https://blog.naver.com/universebin/223358266994
+-> 개발환경 구축하기
+
+https://velog.io/@kimsoohyun/YOLO-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%9D%BC%EB%B2%A8%EB%A7%81%EC%9D%84-%EC%9C%84%ED%95%9C-labelImg-%EC%82%AC%EC%9A%A9%EB%B2%95
+
+
+https://chatgpt.com/c/6831cdd5-bbb8-8005-b181-57f90249166b
+
+
+https://blog.naver.com/PostView.naver?blogId=beyondlegend&logNo=223050797442
+
+
+https://hyunsungstory.tistory.com/265
+
+https://jinwoo-jung.com/69
+yolov8 데이터셋 학습법
+
+
+https://limecoding.tistory.com/228
+
+https://yolov8.org/how-to-load-yolov8-model/
+
+https://blog.naver.com/jjunsss/222360843907
+
+https://limecoding.tistory.com/228
+
+
+=============모델 데이터 구축================
+
+https://kr.appen.com/blog/video-annotation/
+동영상 라벨링
+
+https://m.blog.naver.com/jangh13/223409424452
+roboflow 사용법
+
+
+============데이터 전처리================
+
+https://iambeginnerdeveloper.tistory.com/30
+데이터 전처리 1-1
+
+https://modulabs.co.kr/blog/data-preproccesing
+데이터 전처리 1
+
+https://precommer.tistory.com/16
+데이터 전처리 결측치 제거
+
+https://happy-obok.tistory.com/72
+데이터 분석하기
